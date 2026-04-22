@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/header.gif" alt="NightKey — macOS menu bar app to toggle MacBook keyboard backlight" width="100%">
+  <img src="docs/header.jpg" alt="NightKey — macOS menu bar app to toggle MacBook keyboard backlight" width="100%">
 </p>
 
 <h1 align="center">NightKey ⌨ — macOS menu bar app to toggle MacBook keyboard backlight</h1>
@@ -102,6 +102,12 @@ rm -rf /Applications/NightKey.app
 ```
 
 Auto-mode adds a `GCControllerDidConnect` observer via `GameController` framework. When any HID-compliant game controller shows up (Xbox, PS5, Nintendo Pro, third-party MFi), it spams `ILLUMINATION_DOWN` until the backlight floor is reached. On `GCControllerDidDisconnect`, it restores.
+
+<p align="center">
+  <img src="docs/header-crt.gif" alt="NightKey scene — CRT overlay" width="80%">
+  <br>
+  <sub><i>The desk, rendered through a CRT. Just vibes.</i></sub>
+</p>
 
 ## Features
 
