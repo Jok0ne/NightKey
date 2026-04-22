@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/header.jpg" alt="NightKey — macOS menu bar app to toggle MacBook keyboard backlight" width="100%">
+  <img src="docs/header.gif" alt="NightKey — macOS menu bar app to toggle MacBook keyboard backlight" width="100%">
 </p>
 
 <h1 align="center">NightKey ⌨ — macOS menu bar app to toggle MacBook keyboard backlight</h1>
